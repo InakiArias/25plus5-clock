@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+
+#timer-label {
+    text-align: center;
+  }
+  
+  #time-left {
+    font-family: "Orbitron";
+    font-size: 5rem;
+    color: white;
+    background-color: black;
+    border: 2px solid cyan;
+    border-radius: 3%;
+    width: 60%;
+    text-align: center;
+    margin-bottom: 5px;
+    text-shadow: none;
+  }
+  

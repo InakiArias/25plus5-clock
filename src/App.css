@@ -1,0 +1,21 @@
+#mainWrapper {
+    font-family: "Orbitron";
+    border-radius: 3%;
+    height: auto;
+    width: 40%;
+    background-color: #333;
+    border: 1.2rem groove cyan;
+    transition: width 0.5s, background-color 0.2s;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto; 
+      
+    margin-left: auto;
+    font-size: 6vh;
+    color: rgba(40, 30, 255, 0.4);
+    text-shadow: 1px 0 0 cyan, -1px 0 0 #fff, 0 1px 0 cyan, 0 -1px 0 #fff,
+      1px 1px cyan, -1px -1px 0 #fff, 1px -1px 0 cyan, -1px 1px 0 #fff;
+    word-wrap: break-word;
+  }
