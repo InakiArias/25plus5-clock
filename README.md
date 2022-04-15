@@ -1,4 +1,4 @@
-# A Drum Machine webapp
+# A 25 + 5 clock webapp
 
 To test:  
 -Install Node.js  
